@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mhassan0394
 - 👀 I’m interested in python and matlab for data analyis and image processing
 - 🌱 I’m currently learning image processing
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on image processing project
 - 📫 How to reach me, shot me a message
 
 <!---
